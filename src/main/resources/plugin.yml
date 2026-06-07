@@ -2,3 +2,10 @@ name: ResourcePoint
 version: '${version}'
 main: quest.yuzhou.resourcepoint.ResourcePoint
 api-version: '1.19'
+commands:
+  rp:
+    permission: ResourcePoint.admin
+    description: Main Command
+permissions:
+  ResourcePoint.admin:
+    description: Admin permission of Resource Point Plugin
