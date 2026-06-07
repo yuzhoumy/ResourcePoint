@@ -1,0 +1,4 @@
+name: ResourcePoint
+version: '${version}'
+main: quest.yuzhou.resourcepoint.ResourcePoint
+api-version: '1.19'
